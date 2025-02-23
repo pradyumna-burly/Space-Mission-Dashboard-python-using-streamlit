@@ -71,7 +71,7 @@ def apply_theme():
 apply_theme()
 
 # Title
-st.title("🌌 Space Mission Analytics Dashboard")
+st.title("🚀 Cosmic Explorations: Space Mission Dashboard 🌌")
 st.markdown("""
     <div style="color: #4A5568; margin-bottom: 2rem;">
     Interactive analysis of space mission parameters and performance metrics
